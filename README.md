@@ -36,7 +36,7 @@ I am available for **full-time roles, contract work, and consulting engagements 
 
 ## Work Experience
 
-### [Eatly.io](https://eatly.io) &nbsp;|&nbsp; Full Stack Software Architect &nbsp;|&nbsp; _January 2026 - Present_
+### [Eatly.io](https://eatly.io) &nbsp;|&nbsp; Full Stack Software Architect &nbsp;|&nbsp; _April 2026 - Present_
 
 _Scaling food delivery infrastructure across Lagos._
 
