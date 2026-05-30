@@ -1,138 +1,150 @@
 # TechyTro
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Architect;Founder+at+DexTycoon+%26+FidduPay;Solana+gRPC+%26+Web3+Specialist;Building+Scalable+Fintech+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Architect;Senior+Backend+%26+Infrastructure+Engineer;Fintech+%26+Logistics+Specialist;Open+to+Global+Opportunities" alt="Typing SVG" />
 </p>
-
----
-
-### Professional Overview
-
-I am a **Software Architect and Founder** with a passion for building high-performance, low-latency systems. Currently, I am a **Full Stack Developer at Eatly.io**, where I contribute to building Lagos' most advanced food logistics platform
-
-- **Architecting** resilient systems using Clean Architecture, CQRS, and MediatR.
-- **Rust & gRPC** specialist for Solana blockchain infrastructure.
-- **Fintech & Logistics** innovator focused on secure, real-time payment and delivery workflows.
-- **Multilingual**: Fluent in **English** and **French** (A1).
-
----
-
-### Most Used Languages
-
-Beyond what public GitHub stats capture, this reflects all languages across public and private repositories:
-
-| Language       | Primary Use                                                  |
-| :------------- | :----------------------------------------------------------- |
-| **JavaScript** | DApps, bots, frontends, APIs (Express, Fastify)               |
-| **TypeScript** | Web3 frontends, trading UIs, SaaS dashboards, gRPC clients    |
-| **Rust**       | Solana blockchain programs, gRPC services, high-performance trading bots |
-| **Python**     | Trading bots, data pipelines, automation, ML scripts           |
-| **Solidity**   | EVM smart contracts, ERC404, token contracts                   |
-| **C#**         | Backend APIs, real-time logistics, fintech workflows (.NET 8)   |
-| **Golang**     | High-concurrency trading backends, gRPC microservices           |
-| **SQL**        | Complex queries, analytics, reporting (PostgreSQL & SQL Server) |
-| **HTML/CSS**   | Web interfaces, landing pages, DApp frontends                   |
-| **SCSS**       | Advanced styling for production-grade UIs                       |
-| **Shell**      | Build scripts, Docker entrypoints, CI/CD automation             |
-| **Makefile**   | Rust/Go build tooling and project orchestration                 |
-| **C/C++**      | Performance-critical native modules and libraries                |
-| **PowerShell** | Windows automation, DevOps tooling                              |
-| **Kotlin**     | Android mobile development                                      |
-| **Dart**       | Flutter cross-platform mobile apps                              |
-| **Swift**      | iOS native development                                          |
-| **Ruby**       | Legacy codebases and scripting                                  |
-| **GraphQL**    | API layer for flexible frontend data consumption                |
-| **Dockerfile** | Containerized deployments across all projects                   |
-| **Assembly**   | Low-level system optimization                                   |
-| **Batchfile**  | Windows batch automation                                        |
-| **CoffeeScript** | Early Node.js projects                                        |
-| **Cython**     | Python performance optimization                                 |
-| **Nix**        | Reproducible builds and dev environments                        |
-| **Objective-C/C++** | iOS/macOS native bridging                                 |
-| **Pug**        | Template engine for Node.js web apps                            |
-
-
----
-
-### Featured Ventures & Impact
-
-#### [Eatly.io](https://eatly.io) | Full Stack Software Architect
-
-_Scaling Lagos' most advanced food logistics and fintech platform._
-
-- **Dynamic ETA Engine**: Engineered a hybrid predictive model using historical prep averages and real-time transit factors (MapTiler/Radar.io) to provide transparent, high-accuracy delivery estimates.
-- **Secure Delivery Protocol**: Designed a 3-stage validation workflow (`Accept` -> `Arrive` -> `Deliver`) with a 4-digit secure PIN exchange to eliminate "phantom deliveries" and ensure 100% payout integrity.
-- **Social Split-Pay Engine**: Built a first-of-its-kind "Individual-Pay" Group Ordering system, allowing users to share order sessions and pay their individual splits seamlessly.
-- **Real-Time Logistics**: Implemented a SignalR-based broadcasting system with a Redis backplane to handle order dispatch across a distributed fleet of thousands of riders.
-- **Rider Safety & SOS**: Integrated a high-priority safety protocol with GPS breadcrumb history and emergency panic triggers.
-- **Tech Stack**: `.NET 8 (C#)`, `SignalR`, `PostgreSQL`, `Docker`, `Redis`, `MapTiler`.
-
-#### [DexTycoon](https://grpc-sniper-source-code.vercel.app) | Founder & Lead Engineer
-
-_High-performance Web3 automation and trading infrastructure._
-
-- **gRPC Sniper Bots**: Built ultra-low-latency trading bots on Solana using gRPC streams, achieving sub-millisecond execution for competitive DEX entries.
-- **RPC Performance Monitor**: Developed a real-time monitor to track Solana RPC node health, latency, and success rates to ensure optimal transaction routing.
-- **DEX Analytics**: Engineered data pipelines to track liquidity movements and whale activity across major Solana protocols.
-- **Trade Engine**: Engineered advanced custom strategy into the trade engine where user pick the strategy that works best for them with no technical knowledge needed.
-- **Tech Stack**: `Rust`, `Golang`, `gRPC`, `TypeScript`, `Solana Core`.
-
-#### [FidduPay](www.fiddupay.com) | Founder & Lead Engineer
-
-_Building the future of digital payments and financial connectivity with an agentic trust score intelligence layer._
-
-- **Payment Gateway Architecture**: Designed a secure, API-first payment ecosystem focused on high-concurrency transaction handling and fraud prevention.
-- **SaaS Infrastructure**: Architected the foundation for scalable fintech services with a focus on developer-friendly API experiences.
-- **Tech Stack**: `Rust`, `TypeScript`, `SQL Server`, `API Design`.
-
----
-
-### Technical Arsenal
-
-| Category              | Tools & Technologies                                                                                                                     |
-| :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**         | `Rust`, `C# (.NET 8)`, `Golang`, `TypeScript`, `C++`, `Python`, `SQL`, `GraphQL`, `HTML`, `CSS`, `JavaScript`, `Bash`, `Shell`, `Kotlin` |
-| **Backend**           | `SignalR (Redis Backplane)`, `MediatR`, `gRPC`, `Microservices`, `EF Core`, `CQRS`                                                       |
-| **Web3 / Blockchain** | `Solana Core`, `Anchor`, `Pinnochio`, `Web3.js`, `DEX Automation`, `Smart Contracts`                                                     |
-| **Infrastructure**    | `Docker (Alpine)`, `Ubuntu`, `AWS`, `Kubernetes`, `CI/CD`, `Cloudflare R2`, `BunnyCDN`, `Radar.io`                                       |
-| **Databases**         | `PostgreSQL`, `SQL Server`, `Redis`, `MongoDB`                                                                                           |
-| **Frameworks**        | `React`, `Next.js`, `Tailwind CSS`, `Bun`, `Vite`, `Fastify`, `Express.js`, `Bootstrap`                                                  |
-
----
-
-### GitHub Metrics & Visibility
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CHToken&show_icons=true&theme=tokyonight&title_color=14F195&icon_color=9945FF&text_color=ffffff&bg_color=0D1117&hide_border=true&count_private=true" alt="CHToken GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CHToken&layout=compact&theme=tokyonight&title_color=14F195&icon_color=9945FF&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Hire-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to-Relocation_%26_Visa_Sponsorship-blueviolet?style=for-the-badge" />
 </p>
 
-> [!IMPORTANT]
-> **Private Contributions**: Much of my work at **Eatly.io**, **FidduPay** and **DexTycoon** is hosted in private enterprise repositories. The language stats above reflect public repos only. See the **Most Used Languages** section above for a complete picture of my engineering stack.
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CHToken&theme=tokyonight&fire=14F195&ring=9945FF&sideNums=14F195&sideLabels=ffffff&dates=ffffff&bg_color=0D1117&hide_border=true" alt="GitHub Streak" height="180px" />
-</p>
+<br />
 
 ---
 
-### Activity Matrix
+## Professional Overview
+
+I build software that moves money, food, and data at scale. As a **Senior Backend & Infrastructure Engineer**, I design highly secure, cost-optimized, and high-concurrency systems that handle millions of requests -- from banking networks to real-time delivery logistics.
+
+Highly experienced in financial backend scaling, I led the core backend optimization at **Miraton Matador Group (Shanonobank)**, supporting millions of monthly requests while slashing cloud infrastructure costs by **98%**. Currently, I also lead backend architecture at **Eatly.io**, one of Lagos' fastest-growing food delivery platforms.
+
+I am available for **full-time roles, contract work, and consulting engagements worldwide** -- including relocation and visa sponsorship.
+
+---
+
+## What I Bring
+
+| Capability | Business Impact |
+| :--------- | :-------------- |
+| **Systems Architecture** | I design software that scales with your growth. Clean architecture, event-driven patterns, and horizontally scalable services built to handle traffic spikes without breaking. |
+| **Full Stack Delivery** | I ship features end-to-end -- from database design to REST/gRPC APIs to responsive interfaces. No silos, no handoffs, no "that's not my job." |
+| **Extreme Cost Efficiency** | I optimize infrastructure to maximize margin. I once cut monthly cloud spending by **98%** (from $2,500 to $60/month) while maintaining elite security and speed. |
+| **Remote & Global** | 4+ years working across time zones with distributed teams. Async-first communication, clear documentation, and predictable delivery cadence. |
+
+---
+
+## Work Experience
+
+### [Eatly.io](https://eatly.io) &nbsp;|&nbsp; Full Stack Software Architect &nbsp;|&nbsp; _January 2026 - Present_
+
+_Scaling food delivery infrastructure across Lagos._
+
+- **90% Infrastructure Cost Reduction**: Optimized core infrastructure and hosting configurations in the first month to slash monthly server costs from $150/month down to **$15/month**.
+- Built a real-time order dispatch system connecting thousands of riders to customers with sub-second latency (SignalR + Redis backplane).
+- Designed a secure multi-step delivery verification protocol (PIN exchange) that eliminated delivery fraud across the platform.
+- Engineered a group ordering system allowing multiple people to share a cart and pay their individual portions -- a first in the Nigerian market.
+- Built predictive ETA models using MapTiler routing and historical vendor preparation data.
+
+**Stack**: `.NET 8` &nbsp;|&nbsp; `SignalR` &nbsp;|&nbsp; `PostgreSQL` &nbsp;|&nbsp; `Redis` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `MapTiler`
+
+### [Miraton Matador Group (Shanonobank)](https://shanonobank.com) &nbsp;|&nbsp; Senior Backend & Infrastructure Engineer &nbsp;|&nbsp; _January 2022 - January 2026_
+
+_Began as a core backend contractor in 2022 before transitioning to a full-time Senior role on January 1, 2024, to architect and scale MMG's primary digital banking platform._
+
+- **Engineering Leadership & Management**: Led, guided, and mentored a team of 4 frontend and backend developers. Managed workload distribution, monitored performance, and reviewed all code submissions to ensure quality standards were met before delivery to the project manager.
+- **High-Scale Performance**: Empowered the banking infrastructure to seamlessly serve 1,000+ active users and process millions of requests per month with custom Redis caching and batching strategies.
+- **98% Infrastructure Cost Reduction**: Re-architected deployment pipelines and optimized server resources to cut monthly cloud hosting costs from $2,000 - $2,500 down to just **$60 per month**, saving the organization tens of thousands of dollars annually.
+- **Hardened Security**: Designed a high-security access framework using OpenVPN and SSH keys tied specifically to server IPs, backed by a robust firewall layer to completely secure administrative access.
+- **Marketplace Development**: Built **tandtdeals**, a custom multi-vendor digital marketplace platform.
+
+**Stack**: `C# (.NET)` &nbsp;|&nbsp; `Laravel (PHP)` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `Redis` &nbsp;|&nbsp; `PostgreSQL` &nbsp;|&nbsp; `MongoDB` &nbsp;|&nbsp; `Nginx` &nbsp;|&nbsp; `OpenVPN` &nbsp;|&nbsp; `Linux Server Administration` &nbsp;|&nbsp; `Firewalls`
+
+### Freelance Full-Stack Engineer &nbsp;|&nbsp; _2017 - 2024_
+
+_Delivered high-performance, cost-effective digital solutions for diverse global clients across multiple regions._
+
+- **Global Deliveries**: Designed and built bespoke web applications, interactive frontends, and backend APIs for clients worldwide, ranging from high-security business platforms to viral meme and Web3 community projects.
+- **Infrastructure Audits**: Helped small businesses and startups migrate legacy applications to optimized cloud servers, prioritizing security, implementing Caddy/Nginx reverse proxies, and minimizing operational overhead.
+
+---
+
+## Featured Projects
+
+### [FidduPay](https://fiddupay.com) &nbsp;|&nbsp; _Personal Project_ _January 2026 - March 2026_
+
+_Digital payments infrastructure built for scale._
+
+- Architected an API-first payment gateway handling high-concurrency transaction processing with real-time fraud detection.
+- Built the full SaaS platform: merchant onboarding, transaction dashboard, API key management, and webhook integrations.
+- Designed automated fraud prevention rules and real-time transaction validation pipelines.
+
+**Stack**: `Rust` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `SQL Server`
+
+### [DexTycoon](https://grpc-sniper-source-code.vercel.app) &nbsp;|&nbsp; _Personal Project_ _August 2024 - February 2026_ 
+
+_Automated trading tools and real-time analytics for Solana._
+
+- Built ultra-low-latency trading bots using gRPC streams, achieving competitive execution speeds on Solana DEXs.
+- Developed a real-time RPC node health monitor tracking latency, uptime, and transaction success rates.
+- Engineered a strategy-based trade engine configurable by non-technical users through an intuitive interface.
+
+**Stack**: `Rust` &nbsp;|&nbsp; `gRPC` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `Solana`
+
+---
+
+## Education
+
+### Esep Le Berger Université &nbsp;|&nbsp; _Cotonou, Republic of Benin_
+- **B.Sc. in Computer Science**
+
+---
+
+## Languages & Tools
+
+**Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `C#` `Rust` `TypeScript` `JavaScript (Node.js)` `PHP` `Python` `SQL` `GraphQL`
+
+**Frameworks** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `React` `Next.js` `.NET` `Laravel` `Express.js` `Fastify` `Tailwind CSS` `Bootstrap`
+
+**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `PostgreSQL` `SQL Server` `Redis` `MongoDB`
+
+**Infrastructure** &nbsp;&nbsp; `Docker` `Kubernetes` `AWS` `CI/CD` `Caddy` `Nginx` `Cloudflare`
+
+**Web3** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Solana` `Anchor` `Solidity` `Smart Contracts` `Web3.js`
+
+**Specialized** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `gRPC` `SignalR` `CQRS` `MediatR` `Microservices` `Event-Driven Architecture`
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CHToken&show_icons=true&theme=tokyonight&title_color=14F195&icon_color=9945FF&text_color=ffffff&bg_color=0D1117&hide_border=true&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CHToken&layout=compact&theme=tokyonight&title_color=14F195&icon_color=9945FF&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CHToken&theme=tokyonight&fire=14F195&ring=9945FF&sideNums=14F195&sideLabels=ffffff&dates=ffffff&bg_color=0D1117&hide_border=true" alt="Streak" height="180px" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHToken&bg_color=0D1117&color=14F195&line=9945FF&point=ffffff&area=true&hide_border=true&theme=tokyo-night" width="100%" />
 </p>
 
----
-
-### Connect & Collaborate
-
-<p align="center">
-<a href="https://t.me/lordofdevsalt" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="lordofdevsalt" /></a>
-<a href="https://x.com/lordtechytro" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="lordtechytro" /></a>
-<a href="https://discord.com/users/techytro" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="techytro" /></a>
-</p>
+> **Note:** My most impactful work lives in private repositories (which are not accessible to the public). The public stats above reflect private contributions to companies I've worked with, my personal projects and open-source tools.
 
 ---
+
+## Let's Work Together
+
+I am actively seeking **full-time, contract, and consulting opportunities worldwide**. I am open to relocation and welcome visa sponsorship.
+
+| Channel | Contact |
+| :------ | :------ |
+| **Email** | [techytrosoftware@gmail.com](mailto:techytrosoftware@gmail.com) |
+| **Telegram** | [@lordofdevsalt](https://t.me/lordofdevsalt) |
+| **X (Twitter)** | [@lordtechytro](https://x.com/lordtechytro) |
+| **Discord** | [techytro](https://discord.com/users/techytro) |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9945FF&height=100&section=footer" />
