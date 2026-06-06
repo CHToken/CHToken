@@ -1,7 +1,7 @@
 # TechyTro
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Architect;Senior+Backend+%26+Infrastructure+Engineer;Fintech+%26+Logistics+Specialist;Open+to+Global+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Architect;AI+Engineer+%26+LLM+Researcher;Senior+Backend+%26+Infrastructure+Engineer;Fintech+%26+Logistics+Specialist;Open+to+Global+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,50 @@
 
 ## Professional Overview
 
-I build software that moves money, food, and data at scale. As a **Senior Backend & Infrastructure Engineer**, I design highly secure, cost-optimized, and high-concurrency systems that handle millions of requests -- from banking networks to real-time delivery logistics.
+I am an AI Engineer, LLM Researcher, and Senior Backend Engineer with 6+ years of experience building systems that move money, food, and data at scale.
+My recent work focuses on Large Language Models, coding agents, multilingual AI systems, model fine-tuning, data pipelines, evaluation workflows, and developer productivity tooling.
+I built and fine-tuned a coding-focused AI model using Qwen 22B as the base model, trained on curated software repositories, engineering workflows, and multilingual datasets including Yoruba and Nigerian Pidgin.
+Alongside AI research, I continue to architect high-scale distributed systems, fintech platforms, payment infrastructure, and real-time logistics platforms used by thousands of users.
+
+Current interests:
+LLM Training & Fine-Tuning
+AI Coding Agents
+Human Data & Evaluation
+Multilingual AI
+Model Alignment
+Distributed AI Infrastructure
+Retrieval-Augmented Generation (RAG)
+Developer Productivity Systems
+
+
+**AI Research & LLM Engineering**
+**Custom Coding LLM**
+- Built a coding-specialized language model using Qwen 22B.
+- Research Areas
+- Fine-tuning foundation models
+- Dataset engineering
+- Prompt optimization
+- AI-assisted software development
+- Agentic workflows
+- Coding evaluation systems
+
+## Training Pipeline
+- Curated proprietary code datasets
+- Repository-based instruction generation
+- Web-scraped supplementary datasets
+- Yoruba language adaptation
+- Nigerian Pidgin adaptation
+- Data cleaning and validation
+- Evaluation and benchmarking
+
+## Areas of Interest
+- Foundation Models
+- Reasoning Systems
+- Human Feedback
+- Synthetic Data Generation
+- AI Safety
+- Model Evaluation
+- Autonomous Agents
 
 Highly experienced in financial backend scaling, I led the core backend optimization at **Miraton Matador Group (Shanonobank)**, supporting millions of monthly requests while slashing cloud infrastructure costs by **98%**. Currently, I also lead backend architecture at **Eatly.io**, one of Lagos' fastest-growing food delivery platforms.
 
@@ -70,6 +113,53 @@ _Delivered high-performance, cost-effective digital solutions for diverse global
 ---
 
 ## Featured Projects
+AI Projects
+
+Coding LLM Research Project
+
+A coding-specialized language model fine-tuned from Qwen 22B and optimized for software engineering workflows.
+
+Highlights:
+
+- Fine-tuned on proprietary repositories and development workflows
+- Trained using Kaggle GPU infrastructure
+- Added Yoruba and Nigerian Pidgin language capabilities
+- Built automated dataset collection pipelines
+- Implemented evaluation workflows for coding quality
+- Developed developer-focused prompting and reasoning strategies
+
+Research Focus
+
+"LLMs"
+"Fine-Tuning"
+"Prompt Engineering"
+"Code Generation"
+"Dataset Engineering"
+"Multilingual AI"
+"AI Evaluation"
+
+---
+
+AI-Powered Development Assistant
+
+Building autonomous and semi-autonomous developer tooling capable of:
+
+- Code generation
+- Refactoring assistance
+- Documentation generation
+- Repository understanding
+- Architecture recommendations
+- Engineering workflow automation
+
+Stack
+
+"Python"
+"Qwen"
+"Transformers"
+"PyTorch"
+"LLMs"
+"Vector Search"
+"Web Scraping"
 
 ### [FidduPay](https://fiddupay.com) &nbsp;|&nbsp; _Personal Project_ _January 2026 - March 2026_
 
