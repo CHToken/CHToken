@@ -15,7 +15,7 @@
 
 ## Professional Overview
 
-I am an AI Engineer, LLM Researcher, and Senior Backend Engineer with 6+ years of experience building systems that move money, food, and data at scale.
+I am an AI Engineer, LLM Researcher, and Senior Backend Engineer with 9 years of experience building systems that move money, food, and data at scale.
 My recent work focuses on Large Language Models, coding agents, multilingual AI systems, model fine-tuning, data pipelines, evaluation workflows, and developer productivity tooling.
 I built and fine-tuned a coding-focused AI model using Qwen 22B as the base model, trained on curated software repositories, engineering workflows, and multilingual datasets including Yoruba and Nigerian Pidgin.
 Alongside AI research, I continue to architect high-scale distributed systems, fintech platforms, payment infrastructure, and real-time logistics platforms used by thousands of users.
