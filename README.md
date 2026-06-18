@@ -194,11 +194,11 @@ _Automated trading tools and real-time analytics for Solana._
 
 **Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `C#` `Rust` `TypeScript` `JavaScript (Node.js)` `PHP` `Python` `SQL` `GraphQL`
 
-**Frameworks** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `React` `Next.js` `.NET` `Laravel` `Express.js` `Fastify` `Tailwind CSS` `Bootstrap`
+**Frameworks** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `React` `Next.js` `.NET` `Laravel` `Express.js` `Angular` `Hono` `Fastify` `Tailwind CSS` `Bootstrap`
 
-**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `PostgreSQL` `SQL Server` `Redis` `MongoDB`
+**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `PostgreSQL` `SQL Server` `Redis` `MongoDB` `SQLite` `MySql` `Firebase` `Supabase`
 
-**Infrastructure** &nbsp;&nbsp; `Docker` `Kubernetes` `AWS` `CI/CD` `Caddy` `Nginx` `Cloudflare`
+**Infrastructure** &nbsp;&nbsp; `Docker` `Kubernetes` `AWS` `Azure` `CI/CD` `Caddy` `Nginx` `Cloudflare`
 
 **Web3** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Solana` `Anchor` `Solidity` `Smart Contracts` `Web3.js`
 
